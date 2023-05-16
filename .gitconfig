@@ -1,0 +1,4 @@
+[credential]
+	helper = store --file ~credentials
+[safe]
+	directory = /home/jovyan
