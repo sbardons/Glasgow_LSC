@@ -1,4 +1,4 @@
 [credential]
-	helper = store --file ~credentials
+	helper = store --file ~gitcredentials
 [safe]
 	directory = /home/jovyan
